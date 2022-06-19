@@ -4,7 +4,7 @@
 <h3 align="center">A Junior Software Engineer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paulomatos777" alt="paulomatos" /> </p>
 
-- 🔭 I’m currently working on [Exmed](https://exmed.com.br/)
+- 🔭 I’m currently working at [Exmed](https://exmed.com.br/)
 
 - I'm a Undergraduate Computer Scientist at [Cesar School](https://www.cesar.school/)
 
