@@ -1,7 +1,7 @@
 <img align="right" height="509em" src="https://raw.githubusercontent.com/gist/paulomatos777/87c10ac468499a23b20c406f8e84dcdf/raw/72ede8e6b3b1e365cb5f9026645c1507d9e4aed1/githubcard3.svg" alt="react" />
 
 <h1 align="center">Hi dear 👋, I'm Paulo Matos</h1>
-<h3 align="center">A Junior Software Engineer</h3>
+<h3 align="center">A Software Engineer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paulomatos777" alt="paulomatos" /> </p>
 
 - 🔭 I’m currently working at [Exmed](https://exmed.com.br/)
