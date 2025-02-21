@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working at FcxLabs (Ferreira Costa)
 
-- I'm a Undergraduate Computer Scientist at [Cesar School](https://www.cesar.school/)
+- I'm a graduated Computer Scientist by [Cesar School](https://www.cesar.school/)
 
 - 👨‍💻 Some of my public projects are available at [github](https://github.com/paulomatos777)
 
